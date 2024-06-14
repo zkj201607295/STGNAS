@@ -1,0 +1,4 @@
+2024-06-15 00:35:19,885 args = Namespace(data_path='data', dataset='Photo', dense_block_len=2, incep_block_len=2, max_gen=20, max_len=10, pc=0.9, pm=0.2, pop_size=30, res_block_len=2, seed=8262, show=True, task_type='full', total_epochs=400, train_rate=0.6, val_rate=0.2)
+2024-06-15 00:35:19,885 Initialize population ...
+2024-06-15 00:35:19,951 Evolve 00-gen. Begin to evaluate the fitness
+2024-06-15 00:35:20,376 	Individual gen0--0, genotype=20111, hidden_dim=256, dropout=0.7, lr=0.002, weight decay=1e-05 begin to evaluate.
