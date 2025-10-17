@@ -1,4 +1,4 @@
-TSGNAS: Topology and Semantic Graph Neural Architecture Search
+TSGNAS: A Topology and Semantic Guided Graph Neural Network Architecture Searcher
 
 1. Environment Setup
    
